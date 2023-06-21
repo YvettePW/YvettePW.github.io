@@ -1,3 +1,3 @@
-# Eyes
-## Exercise on eyes
-<img src= "oneeye.png" width='300'/>
+# My Portfolio
+## My Eyes Repo
+<a href="http://yvettepw.github.io/eyes">Eyes Exercise</a>
