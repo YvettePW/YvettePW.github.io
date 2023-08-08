@@ -11,4 +11,4 @@
 <a href="http://yvettepw.github.io/Formik-Form">Formik Email and Password Form</a>
 ## Heatmap
 <a href="http://yvettepw.github.io/Heatmap">Heatmap</a>
-# Fetch and Render API Data
+## Fetch and Render API Data
